@@ -35,7 +35,7 @@ async def amireallyalive(alive):
             f"<b>{EMOJI} Catuserbot Version :</b> <code>{catversion}</code>\n"
         )
         cat_caption += f"<b>{EMOJI} Database :</b> <code>{check_sgnirts}</code>\n\n"
-        cat_caption += "    <a href = https://github.com/sandy1709/catuserbot><b>GoodCat</b></a> | <a href = https://github.com/Jisan09/catuserbot><b>BadCat</b></a> | <a href = https://t.me/catuserbot_support><b>Support</b></a>"
+        cat_caption += "    <a href = https://t.me/s_a_i_k_r_i_s_h_n_a><b>ShaDow</b></a> "
         await alive.client.send_file(
             alive.chat_id,
             CAT_IMG,
@@ -56,7 +56,8 @@ async def amireallyalive(alive):
             f"<b>{EMOJI} Telethon version :</b> <code>{version.__version__}</code>\n"
             f"<b>{EMOJI} Catuserbot Version :</b> <code>{catversion}</code>\n"
             f"<b>{EMOJI} Database :</b> <code>{check_sgnirts}</code>\n\n"
-            "    <a href = https://github.com/sandy1709/catuserbot><b>GoodCat</b></a> | <a href = https://github.com/Jisan09/catuserbot><b>BadCat</b></a> | <a href = https://t.me/catuserbot_support><b>Support</b></a>",
+            "    <a href = https://t.me/s_a_i_k_r_i_s_h_n_a><b>ShaDow</b></a> ",
+b></a>",
             parse_mode="html",
         )
 
