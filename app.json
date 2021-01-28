@@ -14,7 +14,7 @@
   "success_url": "#TODO",
   "env": {
     "ENV": {
-      "description": "Setting this to ANYTHING will enable heroku.",
+      "description": "Setting thiss to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "TMP_DOWNLOAD_DIRECTORY": {
